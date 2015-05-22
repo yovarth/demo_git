@@ -1,1 +1,3 @@
-Nouveau fichier de paramétrage
+Nouveau fichier de paramÃ©trage
+
+Il y a une erreur dans la ligne de commande
